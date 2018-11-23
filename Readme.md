@@ -1,7 +1,9 @@
 # Node Master Class - Homework Assignment 1
 
 **RESTful JSON API**
+
 **Author: Grzegorz Gozdziak**
+
 **Licence: MIT**
 
 ## Description
