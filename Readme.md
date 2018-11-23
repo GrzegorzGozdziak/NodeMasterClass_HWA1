@@ -1,14 +1,14 @@
-# Node Master Class - Homework Assignment 1
+# Node Master Class - Assignment #1
 
-**RESTful JSON API**
+**Node.js REST JSON API**
 
-**Author: Grzegorz Gozdziak**
+Author: Grzegorz Gozdziak
 
-**Licence: MIT**
+Licence: MIT
 
 ## Description
 
-Simple API wrote in Node.js
+Simple REST API wrote in Node.js
 
 When someone posts anything to the route /hello, app will return a welcome message in JSON format.
 
