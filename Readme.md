@@ -10,8 +10,6 @@ When someone posts anything to the route /hello, app will return a welcome messa
 
 ### Get the repository
 
-Clone repository:
-
 ```
 git clone https://github.com/GrzegorzGozdziak/NodeMasterClass_HWA1.git
 ```
