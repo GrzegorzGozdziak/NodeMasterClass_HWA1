@@ -1,14 +1,8 @@
-# Node Master Class - Assignment #1
-
-**Node.js REST JSON API**
-
-Author: Grzegorz Gozdziak
-
-Licence: MIT
+# Simple REST API
 
 ## Description
 
-Simple REST API wrote in Node.js
+Simple REST API in Node.js
 
 When someone posts anything to the route /hello, app will return a welcome message in JSON format.
 
@@ -67,3 +61,11 @@ node index.js
 SET NODE_ENV=production
 node index.js
 ```
+
+## Author
+
+* Grzegorz Gozdziak
+
+## Licence
+
+This project is licensed under the MIT License
