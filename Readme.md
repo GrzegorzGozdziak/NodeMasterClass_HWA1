@@ -8,14 +8,19 @@
 
 ## Description
 
-Simple API wrote in node.
-When someone posts anything to the route /hello, app will return a welcome message, in JSON format.
+Simple API wrote in Node.js
+
+When someone posts anything to the route /hello, app will return a welcome message in JSON format.
 
 ## How to use it
 
 ### Get the repository
 
-Clone or download repository.
+Clone repository:
+
+```
+git clone https://github.com/GrzegorzGozdziak/NodeMasterClass_HWA1.git
+```
 
 ### Start it
 
@@ -46,19 +51,19 @@ curl -k https://localhost:5001/hello
 in Linux:
 ```
 // for staging mode:
-> NODE_ENV=staging node index.js
+NODE_ENV=staging node index.js
 
 // for production mode:
-> NODE_ENV=production node index.js
+NODE_ENV=production node index.js
 ```
 
 in Windows:
 ```
 // for staging mode:
-> SET NODE_ENV=staging
-> node index.js
+SET NODE_ENV=staging
+node index.js
 
 // for staging mode:
-> SET NODE_ENV=production
-> node index.js
+SET NODE_ENV=production
+node index.js
 ```
